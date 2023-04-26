@@ -29,7 +29,7 @@ CUDA must be installed on the system. This library has been tested with version 
 SDFStudio requires `python >= 3.7`. We recommend using conda to manage dependencies. Make sure to install [Conda](https://docs.conda.io/en/latest/miniconda.html) before proceeding.
 
 ```bash
-conda create --name sdfstudio -y python=3.8
+conda create --name sdfstudio -y python=3.10
 conda activate sdfstudio
 python -m pip install --upgrade pip
 ```
